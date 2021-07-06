@@ -1,0 +1,76 @@
+
+romantic_adventure.png
+size: 1723,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+govde
+  rotate: true
+  xy: 2, 331
+  size: 416, 975
+  orig: 416, 980
+  offset: 0, 0
+  index: -1
+goz-kapalı
+  rotate: true
+  xy: 1693, 606
+  size: 141, 28
+  orig: 141, 28
+  offset: 0, 0
+  index: -1
+gozler
+  rotate: true
+  xy: 1640, 606
+  size: 141, 51
+  orig: 141, 51
+  offset: 0, 0
+  index: -1
+kafa
+  rotate: true
+  xy: 2, 9
+  size: 320, 409
+  orig: 321, 411
+  offset: 1, 0
+  index: -1
+sag-bacak
+  rotate: true
+  xy: 1044, 44
+  size: 265, 637
+  orig: 265, 637
+  offset: 0, 0
+  index: -1
+sag-kas
+  rotate: true
+  xy: 1687, 565
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+sag_kol
+  rotate: true
+  xy: 979, 553
+  size: 194, 659
+  orig: 194, 659
+  offset: 0, 0
+  index: -1
+sol-bacak
+  rotate: true
+  xy: 979, 311
+  size: 203, 642
+  orig: 203, 642
+  offset: 0, 0
+  index: -1
+sol-kas
+  rotate: true
+  xy: 1640, 516
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+sol_kol
+  rotate: true
+  xy: 413, 2
+  size: 307, 629
+  orig: 307, 629
+  offset: 0, 0
+  index: -1
